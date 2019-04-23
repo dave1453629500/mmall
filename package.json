@@ -1,0 +1,30 @@
+{
+  "name": "mmall",
+  "version": "1.0.0",
+  "description": "mma前端代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave1453629500/mmall.git"
+  },
+  "author": "dave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dave1453629500/mmall/issues"
+  },
+  "homepage": "https://github.com/dave1453629500/mmall#readme",
+  "devDependencies": {
+    "css-loader": "^2.1.1",
+    "style-loader": "^0.23.1",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "amdefine": "^1.0.1",
+    "css-loader": "^2.1.1",
+    "source-list-map": "^2.0.1",
+    "style-loader": "^0.23.1"
+  }
+}
